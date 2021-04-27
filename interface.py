@@ -1,3 +1,3 @@
-from calculatrice import display_interface
+from calculatrice 
 
 display_interface()
