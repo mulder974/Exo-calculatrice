@@ -24,7 +24,7 @@ def soustraction(number):
         else:
             result = result - list_number
         i = i + 1
-    return result
+    return aaaa
 
 def multplication(number):
     list_numbers = []
